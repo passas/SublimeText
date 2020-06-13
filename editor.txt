@@ -1,0 +1,1 @@
+To edit your own scheme color go to: https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai
